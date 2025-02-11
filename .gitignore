@@ -1,2 +1,22 @@
 *.class
 *.log
+
+# Play
+logs
+target
+/.bsp
+/.idea
+/.idea_modules
+/.classpath
+/.project
+/.settings
+/RUNNING_PID
+
+# IDEA
+.idea/
+
+# SBT
+.bsp/
+
+# Giter8
+.g8/

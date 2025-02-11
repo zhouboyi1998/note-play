@@ -1,0 +1,1 @@
+GET        /hello/:name        com.cafe.controller.HelloController.hello(name: String)
